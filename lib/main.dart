@@ -70,7 +70,7 @@ class MyHomePage extends StatelessWidget {
                             ),
                           ),
                           TextSpan(
-                            text: 'CSM-A',
+                            text: 'CSM - A',
                             style: TextStyle(
                               fontSize: 18,
                               color: Colors.black,
